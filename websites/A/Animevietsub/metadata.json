@@ -17,8 +17,8 @@
 		"nl": "Bekijk jouw favoriete anime online met Vietnamese ondertiteling!"
 	},
 	"url": "animevietsub.dev",
-	"regExp": "animevietsub\\..*",
-	"version": "1.0.14",
+	"regExp": "^((https):\/\/)?(animevietsub+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$",
+	"version": "1.0.15",
 	"logo": "https://cdn.rcd.gg/PreMiD/websites/A/Animevietsub/assets/logo.jpeg",
 	"thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/Animevietsub/assets/thumbnail.png",
 	"color": "#8b0000",
